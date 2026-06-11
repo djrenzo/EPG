@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="NPO1.nl" site_id="npo1">NPO 1</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="NPO2.nl" site_id="npo2">NPO 2</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="NPO3.nl" site_id="npo3">NPO 3</channel>
+</channels>
