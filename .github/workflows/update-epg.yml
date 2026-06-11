@@ -32,7 +32,7 @@ jobs:
       - name: Grab EPG
         run: |
           cd epg
-          npm run grab --- --channels=channels.xml --output=../guide.xml
+          npm run grab --- --channels=channels.xml --output=../guide.xml --days=7
 
       - name: Commit and push guide.xml
         run: |
