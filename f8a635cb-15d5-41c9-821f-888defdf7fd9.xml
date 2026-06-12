@@ -1537,6 +1537,7 @@ Veel luisterplezier 😎🎙️]]></itunes:summary>
         <enclosure url="https://cdn.podimo.com/hls-media/33c66fcf-f099-4d37-9fba-067e9b900785/main.m3u8" length="0" type="video/mp4"/>
         <podcast:alternateEnclosure type="application/x-mpegURL" length="0" bitrate="2500000" height="1080" lang="nl" title="HD Video Stream" rel="alternate">
             <podcast:source uri="https://cdn.podimo.com/hls-media/33c66fcf-f099-4d37-9fba-067e9b900785/main.m3u8"/>
+        </podcast:alternateEnclosure>
         <itunes:episode>104</itunes:episode>
         <itunes:author>Bankzitters: Achter de Schermen</itunes:author>
         <itunes:duration>3010</itunes:duration>
