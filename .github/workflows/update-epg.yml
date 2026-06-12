@@ -34,6 +34,10 @@ jobs:
           cd epg
           npm run grab --- --channels=channels.xml --output=../guide.xml --days=7
 
+      - name: Fix image tags for Kodi
+        run: |
+          sed -i 's|<image>\(.*\)</image>|<icon src="\1"/>|g' ../guide.xml
+
       - name: Commit and push guide.xml
         run: |
           git config user.name "github-actions[bot]"
