@@ -36,7 +36,7 @@ jobs:
 
       - name: Fix image tags for Kodi
         run: |
-          sed -i 's|<image>\(.*\)</image>|<icon src="\1"/>|g' ../guide.xml
+          sed -i 's|<image>\(.*\)</image>|<icon src="\1"/>|g' guide.xml
 
       - name: Commit and push guide.xml
         run: |
