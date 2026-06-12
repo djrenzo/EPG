@@ -1534,7 +1534,7 @@ Veel luisterplezier 😎🎙️]]></itunes:summary>
         <guid isPermaLink="false">622ae4dd-a07d-49dc-acd0-69189b93f1ff-audio-web-player-key-0</guid>
         <dc:creator><![CDATA[Bankzitters: Achter de Schermen]]></dc:creator>
         <pubDate>Thu, 26 Mar 2026 04:10:10 GMT</pubDate>
-        <enclosure url="https://cdn.podimo.com/hls-media/33c66fcf-f099-4d37-9fba-067e9b900785/main.m3u8" length="0" type="video/mp4"/>
+        <!-- <enclosure url="https://cdn.podimo.com/hls-media/33c66fcf-f099-4d37-9fba-067e9b900785/main.m3u8" length="0" type="video/mp4"/> -->
         <podcast:alternateEnclosure type="application/x-mpegURL" length="0" bitrate="2500000" height="1080" lang="nl" title="HD Video Stream" rel="alternate">
             <podcast:source uri="https://cdn.podimo.com/hls-media/33c66fcf-f099-4d37-9fba-067e9b900785/main.m3u8"/>
         </podcast:alternateEnclosure>
