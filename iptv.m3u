@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NPO_1_logo_2014.svg/200px-NPO_1_logo_2014.svg.png",NPO 1
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://i.imgur.com/HEtJEBa.png",NPO 1
 plugin://plugin.video.retrospect/?action=openshortcut&shortcut=npo1
-#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/NPO_2_logo_2014.svg/200px-NPO_2_logo_2014.svg.png",NPO 2
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://i.imgur.com/wmqaoXS.png",NPO 2
 plugin://plugin.video.retrospect/?action=openshortcut&shortcut=npo2
-#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NPO_3_logo_2014.svg/200px-NPO_3_logo_2014.svg.png",NPO 3
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="https://i.imgur.com/lKcFUqi.png",NPO 3
 plugin://plugin.video.retrospect/?action=openshortcut&shortcut=npo3
