@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   width="131"
+   height="20"
+   viewBox="0 0 131 20"
+   version="1.1"
+   id="svg905"
+   sodipodi:docname="RTL4 2023.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs909" />
+  <sodipodi:namedview
+     id="namedview907"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.229008"
+     inkscape:cx="70.339179"
+     inkscape:cy="10.020522"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg905" />
+  <path
+     fill="#FFFFFF"
+     d="M125.886 17.064v-2.78h-6.854v-2.433l6.153-8.985h3.206v9.228h1.944v2.19h-1.944v2.78h-2.505Zm-4.329-4.97h4.329v-6.43h-.08l-4.249 6.349v.081Z"
+     id="path891"
+     style="fill:#000000" />
+  <path
+     fill="#FF5C01"
+     d="M112.058 0H77.037v19.93h35.021V0Z"
+     id="path893" />
+  <path
+     fill="#FFFFFF"
+     d="M87.92 4.581h2.432v8.645h10.823v2.122H87.92V4.581Z"
+     id="path895" />
+  <path
+     fill="#FF8700"
+     d="M73.54 0H38.519v19.93h35.02V0Z"
+     id="path897" />
+  <path
+     fill="#FFFFFF"
+     d="M54.813 6.705h-6.156V4.58H63.4v2.124h-6.155v8.644h-2.432V6.705Z"
+     id="path899" />
+  <path
+     fill="#FFA61A"
+     d="M35.02 0H0v19.93h35.02V0Z"
+     id="path901" />
+  <path
+     fill="#FFFFFF"
+     d="M9.949 4.581h9.333c2.842 0 4.423 1.292 4.423 3.461 0 1.862-1.186 3.107-3.207 3.4l4.575 3.907h-3.51l-4.302-3.768h-4.879v3.768H9.95V4.581h-.001Zm9.013 4.984c1.504 0 2.234-.492 2.234-1.492s-.73-1.477-2.234-1.477H12.38v2.969h6.58Z"
+     id="path903" />
+</svg>

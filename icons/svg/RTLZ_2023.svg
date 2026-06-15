@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   width="133"
+   height="20"
+   viewBox="0 0 133 20"
+   version="1.1"
+   id="svg1573"
+   sodipodi:docname="RTLZ 2023.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1577" />
+  <sodipodi:namedview
+     id="namedview1575"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.075188"
+     inkscape:cx="135.13396"
+     inkscape:cy="10.074254"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1573" />
+  <path
+     fill="#FFFFFF"
+     d="m120.948 14.885 8.088-9.647v-.082h-7.905v-2.28h11.246v2.28l-8.048 9.607v.082h8.17v2.28h-11.551v-2.24Z"
+     id="path1559"
+     style="fill:#000000" />
+  <path
+     fill="#009598"
+     d="M113.906 0H78.308v19.999h35.598V0Z"
+     id="path1561" />
+  <path
+     fill="#FFFFFF"
+     d="M89.37 4.597h2.473v8.675h11v2.13H89.371V4.597Z"
+     id="path1563" />
+  <path
+     fill="#0CA9EC"
+     d="M74.753 0H39.154v19.999h35.599V0Z"
+     id="path1565" />
+  <path
+     fill="#FFFFFF"
+     d="M55.717 6.728H49.46v-2.13h14.986v2.13H58.19v8.674h-2.472V6.728Z"
+     id="path1567" />
+  <path
+     fill="#00B7AB"
+     d="M35.598 0H0v19.999h35.598V0Z"
+     id="path1569" />
+  <path
+     fill="#FFFFFF"
+     d="M10.347 4.62h9.448c2.878 0 4.478 1.291 4.478 3.458 0 1.86-1.2 3.105-3.247 3.397l4.632 3.905h-3.554l-4.354-3.767h-4.94v3.767H10.35V4.62h-.002ZM19.47 9.6c1.523 0 2.262-.493 2.262-1.492s-.739-1.476-2.262-1.476h-6.663V9.6h6.663Z"
+     id="path1571" />
+</svg>
