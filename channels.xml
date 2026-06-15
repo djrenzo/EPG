@@ -3,4 +3,12 @@
   <channel site="tvgids.nl" lang="nl" xmltv_id="NPO1.nl" site_id="npo1">NPO 1</channel>
   <channel site="tvgids.nl" lang="nl" xmltv_id="NPO2.nl" site_id="npo2">NPO 2</channel>
   <channel site="tvgids.nl" lang="nl" xmltv_id="NPO3.nl" site_id="npo3">NPO 3</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="RTL4.nl" site_id="rtl4">RTL 4</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="RTL5.nl" site_id="rtl5">RTL 5</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="SBS6.nl" site_id="sbs6">SBS 6</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="RTL7.nl" site_id="rtl7">RTL 7</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="" site_id="veronica">Veronica</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="NET5.nl" site_id="net5">NET5</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="RTL8.nl" site_id="rtl8">RTL 8</channel>
+  <channel site="tvgids.nl" lang="nl" xmltv_id="RTLZ.nl" site_id="rtlz">RTL Z</channel>
 </channels>
