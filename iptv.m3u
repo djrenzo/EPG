@@ -1,4 +1,5 @@
 #EXTM3U
+## NL
 #EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://i.imgur.com/HEtJEBa.png",NPO 1
 plugin://plugin.video.retrospect/?action=openshortcut&shortcut=npo1
 #EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://i.imgur.com/wmqaoXS.png",NPO 2
@@ -13,7 +14,7 @@ plugin://plugin.video.nlziet/?mode=play&fmt=live&id=rtl5
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=sbs6
 #EXTINF:-1 tvg-id="RTL7.nl" tvg-name="RTL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/RTL7_2023.svg",RTL 7
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=rtl7
-#EXTINF:-1 tvg-id="veronica" tvg-name="Veronica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Veronica_TV_logo_2024.svg",Veronica
+#EXTINF:-1 tvg-id="veronicadisneyxd" tvg-name="Veronica/Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Veronica_TV_logo_2024.svg",Veronica/Disney XD
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=veronica
 #EXTINF:-1 tvg-id="NET5.nl" tvg-name="NET5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Net5_Logo_2023.jpg",NET5
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=net5
