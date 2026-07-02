@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="epgshare01.online" site_id="NL1#NPO.1.nl" lang="nl" xmltv_id="">NPO 1</channel>
-  <channel site="epgshare01.online" site_id="NL1#NPO.2.nl" lang="nl" xmltv_id="">NPO 2</channel>
-  <channel site="epgshare01.online" site_id="NL1#NPO.3.nl" lang="nl" xmltv_id="">NPO 3</channel>
+  <channel site="webtv.delta.nl" site_id="1" lang="nl" xmltv_id="NPO1.nl@SD">NPO 1</channel>
+  <channel site="webtv.delta.nl" site_id="2" lang="nl" xmltv_id="NPO2.nl@SD">NPO 2</channel>
+  <channel site="webtv.delta.nl" site_id="3" lang="nl" xmltv_id="NPO3.nl@SD">NPO 3</channel>
   <!-- <channel site="tvgids.nl" lang="nl" xmltv_id="NPO1.nl" site_id="npo1">NPO 1</channel>
   <channel site="tvgids.nl" lang="nl" xmltv_id="NPO2.nl" site_id="npo2">NPO 2</channel>
   <channel site="tvgids.nl" lang="nl" xmltv_id="NPO3.nl" site_id="npo3">NPO 3</channel>
