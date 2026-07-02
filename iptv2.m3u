@@ -1,8 +1,24 @@
 #EXTM3U
 ## NL
-#EXTINF:-1 tvg-id="NPO1.nl@SD" tvg-name="NPO 1" tvg-logo="https://i.imgur.com/HEtJEBa.png" group-title="NL",NPO 1
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://i.imgur.com/HEtJEBa.png" group-title="NL",NPO 1
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=npo1
-#EXTINF:-1 tvg-id="NPO2.nl@SD" tvg-name="NPO 2" tvg-logo="https://i.imgur.com/wmqaoXS.png" group-title="NL",NPO 2
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://i.imgur.com/wmqaoXS.png" group-title="NL",NPO 2
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=npo2
-#EXTINF:-1 tvg-id="NPO3.nl@SD" tvg-name="NPO 3" tvg-logo="https://i.imgur.com/lKcFUqi.png" group-title="NL",NPO 3
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="https://i.imgur.com/lKcFUqi.png" group-title="NL",NPO 3
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=npo3
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-name="RTL 4" tvg-logo="https://raw.githubusercontent.com/djrenzo/EPG/main/icons/png/RTL4_2023.png" group-title="NL",RTL 4
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=rtl4
+#EXTINF:-1 tvg-id="RTL5.nl" tvg-name="RTL 5" tvg-logo="https://raw.githubusercontent.com/djrenzo/EPG/main/icons/png/RTL5_2023.png" group-title="NL",RTL 5
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=rtl5
+#EXTINF:-1 tvg-id="SBS6.nl" tvg-name="SBS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/SBS6_%282023%29_orange.png" group-title="NL",SBS 6
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=sbs6
+#EXTINF:-1 tvg-id="RTL7.nl" tvg-name="RTL 7" tvg-logo="https://raw.githubusercontent.com/djrenzo/EPG/main/icons/png/RTL7_2023.png" group-title="NL",RTL 7
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=rtl7
+#EXTINF:-1 tvg-id="veronicadisneyxd" tvg-name="Veronica/Disney XD" tvg-logo="https://raw.githubusercontent.com/djrenzo/EPG/main/icons/png/Veronica_TV_logo_2024.png" group-title="NL",Veronica/Disney XD
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=veronica
+#EXTINF:-1 tvg-id="NET5.nl" tvg-name="NET5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Net5_Logo_2023.jpg" group-title="NL",NET5
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=net5
+#EXTINF:-1 tvg-id="RTL8.nl" tvg-name="RTL 8" tvg-logo="https://raw.githubusercontent.com/djrenzo/EPG/main/icons/png/RTL8_2023.png" group-title="NL",RTL 8
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=rtl8
+#EXTINF:-1 tvg-id="RTLZ.nl" tvg-name="RTL Z" tvg-logo="https://raw.githubusercontent.com/djrenzo/EPG/main/icons/png/RTLZ_2023.png" group-title="NL",RTL Z
+plugin://plugin.video.nlziet/?mode=play&fmt=live&id=rtlz
