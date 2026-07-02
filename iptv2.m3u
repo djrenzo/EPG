@@ -1,8 +1,8 @@
 #EXTM3U
 ## NL
-#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://i.imgur.com/HEtJEBa.png" group-title="NL",NPO 1
+#EXTINF:-1 tvg-id="NPO1.nl@SD" tvg-name="NPO 1" tvg-logo="https://i.imgur.com/HEtJEBa.png" group-title="NL",NPO 1
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=npo1
-#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://i.imgur.com/wmqaoXS.png" group-title="NL",NPO 2
+#EXTINF:-1 tvg-id="NPO2.nl@SD" tvg-name="NPO 2" tvg-logo="https://i.imgur.com/wmqaoXS.png" group-title="NL",NPO 2
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=npo2
-#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="https://i.imgur.com/lKcFUqi.png" group-title="NL",NPO 3
+#EXTINF:-1 tvg-id="NPO3.nl@SD" tvg-name="NPO 3" tvg-logo="https://i.imgur.com/lKcFUqi.png" group-title="NL",NPO 3
 plugin://plugin.video.nlziet/?mode=play&fmt=live&id=npo3
