@@ -1,0 +1,21 @@
+on:
+  workflow_dispatch:
+    inputs:
+      paste_url:
+        description: 'Short URL from the Kodi addon paste'
+        required: true
+
+jobs:
+  sync-config:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch overrides from paste URL
+        run: curl -sL "${{ github.event.inputs.paste_url }}" -o overrides.json
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add overrides.json
+          git diff --cached --quiet || git commit -m "Sync overrides from Kodi addon [skip ci]"
+          git push
