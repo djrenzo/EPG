@@ -1,3 +1,4 @@
+name: 'Update Overrides'
 on:
   workflow_dispatch:
     inputs:
