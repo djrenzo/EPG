@@ -1,11 +1,21 @@
 {
   "Better.Call.Saul.S01.1080p.BluRay.x264-MIXED[rartv]": {
     "title": "Better Call Saul",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2015,
+    "tvdb_id": "273181",
+    "tmdb_id": "60059",
+    "thumb": "https://media.themoviedb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+    "plot": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is \u201cfixer\u201d Mike Ehrmantraut. The series tracks Jimmy\u2019s transformation into Saul Goodman, the man who puts \u201ccriminal\u201d in \u201ccriminal lawyer\"."
   },
   "The Boroughs Season 1 Mp4 1080p": {
     "title": "The Boroughs",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2026,
+    "tvdb_id": "433989",
+    "tmdb_id": "224941",
+    "thumb": "https://media.themoviedb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "plot": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time."
   },
   "The Chronicles of Narnia - Voyage of the Dawn Tredder (2010) [1080p]": {
     "title": "The Chronicles of Narnia",
@@ -17,27 +27,57 @@
   },
   "Fallout.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb": {
     "title": "Fallout",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2024,
+    "tvdb_id": "416744",
+    "tmdb_id": "106379",
+    "thumb": "https://media.themoviedb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+    "plot": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind \u2014 and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them."
   },
   "Industry.S02.1080p.HMAX.WEB-DL.DD5.1.x264-NTb": {
     "title": "Industry",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2020,
+    "tvdb_id": "371796",
+    "tmdb_id": "90812",
+    "thumb": "https://media.themoviedb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
+    "plot": "In the cutthroat world of international finance, a group of young graduates compete for a limited set of permanent positions at a top investment bank in London. The boundaries between colleague, friend, lover, and enemy soon blur as they immerse themselves in a company culture defined as much by sex, drugs and ego as it is by deals and dividends."
   },
   "Industry.S01.1080p.WEBRip.DD5.1.x264-MIXED[rartv]": {
     "title": "Industry",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2020,
+    "tvdb_id": "371796",
+    "tmdb_id": "90812",
+    "thumb": "https://media.themoviedb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
+    "plot": "In the cutthroat world of international finance, a group of young graduates compete for a limited set of permanent positions at a top investment bank in London. The boundaries between colleague, friend, lover, and enemy soon blur as they immerse themselves in a company culture defined as much by sex, drugs and ego as it is by deals and dividends."
   },
   "Industry.S03.COMPLETE.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]": {
     "title": "Industry",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2020,
+    "tvdb_id": "371796",
+    "tmdb_id": "90812",
+    "thumb": "https://media.themoviedb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
+    "plot": "In the cutthroat world of international finance, a group of young graduates compete for a limited set of permanent positions at a top investment bank in London. The boundaries between colleague, friend, lover, and enemy soon blur as they immerse themselves in a company culture defined as much by sex, drugs and ego as it is by deals and dividends."
   },
   "Mare.Of.Easttown.S01.1080p.BluRay.x264-iCEBERG[rartv]": {
     "title": "Mare Of Easttown",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2021,
+    "tvdb_id": "370112",
+    "tmdb_id": "115004",
+    "thumb": "https://media.themoviedb.org/t/p/w500/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+    "plot": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart."
   },
   "The Morning Show Season 1 Mp4 1080p": {
     "title": "The Morning Show",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2019,
+    "tvdb_id": "361563",
+    "tmdb_id": "90282",
+    "thumb": "https://media.themoviedb.org/t/p/w500/y9x2R87yt2U616736NJrP0d56dt.jpg",
+    "plot": "A behind-the-scenes look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual."
   },
   "Prince Caspian (2008) [Georgie Henley] 1080p BluRay H264 DolbyD 5.1 + nickarad": {
     "title": "Prince Caspian",
@@ -51,7 +91,10 @@
     "title": "The Staircase",
     "type": "tvshow",
     "year": 2004,
+    "tvdb_id": "92011",
     "tmdb_id": "21421",
+    "thumb": "https://media.themoviedb.org/t/p/w500/cZUtfXWbMrJZn5WsJzKmpBF9tMJ.jpg",
+    "plot": "Academy Award-winning documentary filmmaker, Jean-Xavier de Lestrade, presents a gripping courtroom thriller, offering a rare and revealing inside look at a high-profile murder trial. In 2001, author Michael Peterson was arraigned for the murder of his wife Kathleen, whose body was discovered lying in a pool of blood on the stairway of their home. Granted unusual access to Peterson's lawyers, home and immediate family, de Lestrade's cameras capture the defense team as it considers its strategic options. The series is an engrossing look at contemporary American justice that features more twists than a legal bestseller.",
     "subs": [
       {
         "url": "https://dl.opensubtitles.org/en/download/subencoding-utf8/src-api/vrf-19e60c5a/file/1955985043",
@@ -73,21 +116,39 @@
   },
   "Under.Salt.Marsh.Segreti.Sommersi.S01.ITA.ENG.1080p.NOW.WEB-DL.DDP5.1.H.264-MeM.GP": {
     "title": "Under Salt Marsh",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2026,
+    "tvdb_id": "453602",
+    "tmdb_id": "262262",
+    "thumb": "https://media.themoviedb.org/t/p/w500/dZQUJiG2scf8APdnMnMilB8A9GS.jpg",
+    "plot": "Morfa Halen is a tight-knit Welsh town precariously nestled between towering mountains and a fast-encroaching sea that threatens its very existence. As a once-in-a-generation storm begins to gather far out at sea, former detective turned teacher Jackie Ellis discovers the body of her 8-year-old pupil, Cefin, seemingly drowned."
   },
   "1923 (2022) S02 (1080p AMZN WEB-DL x265 10bit EAC3 5.1 Ghost)": {
     "title": "1923",
     "type": "tvshow",
-    "year": 2022
+    "year": 2022,
+    "tvdb_id": "416491",
+    "tmdb_id": "157744",
+    "thumb": "https://media.themoviedb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+    "plot": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home."
   },
   "1923 (2022) Season 1 S01 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)": {
     "title": "1923",
     "type": "tvshow",
-    "year": 2022
+    "year": 2022,
+    "tvdb_id": "416491",
+    "tmdb_id": "157744",
+    "thumb": "https://media.themoviedb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+    "plot": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home."
   },
   "1883 S01 1080p TV+ WEB-DL [TR-EN] AAC2.0 H264-TURG": {
     "title": "1883",
-    "type": "tvshow"
+    "type": "tvshow",
+    "year": 2021,
+    "tvdb_id": "396390",
+    "tmdb_id": "118357",
+    "thumb": "https://media.themoviedb.org/t/p/w500/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+    "plot": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America\u2019s promised land \u2014 Montana."
   },
   "Gangs.of.Galicia.S02.MULTi.1080p.WEB.x264-FW-xpost": {
     "title": "Gangs of Galicia",
@@ -143,7 +204,11 @@
   "Twin Peaks (1990) Season 1-3 S01-S03 (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence)": {
     "title": "Twin Peaks",
     "type": "tvshow",
-    "year": 1990
+    "year": 1990,
+    "tvdb_id": "70533",
+    "tmdb_id": "1920",
+    "thumb": "https://media.themoviedb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+    "plot": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul."
   },
   "Ozark Season 1 to 4 Mp4 1080p": {
     "title": "Ozark",
