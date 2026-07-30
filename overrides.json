@@ -129,6 +129,7 @@
     "year": 2022,
     "tvdb_id": "416491",
     "tmdb_id": "157744",
+    "imdb_id": "tt18335752",
     "thumb": "https://media.themoviedb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
     "plot": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home."
   },
@@ -138,17 +139,9 @@
     "year": 2022,
     "tvdb_id": "416491",
     "tmdb_id": "157744",
+    "imdb_id": "tt18335752",
     "thumb": "https://media.themoviedb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
     "plot": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home."
-  },
-  "1883 S01 1080p TV+ WEB-DL [TR-EN] AAC2.0 H264-TURG": {
-    "title": "1883",
-    "type": "tvshow",
-    "year": 2021,
-    "tvdb_id": "396390",
-    "tmdb_id": "118357",
-    "thumb": "https://media.themoviedb.org/t/p/w500/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-    "plot": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America\u2019s promised land \u2014 Montana."
   },
   "Gangs.of.Galicia.S02.MULTi.1080p.WEB.x264-FW-xpost": {
     "title": "Gangs of Galicia",
@@ -174,6 +167,7 @@
     "year": 2024,
     "tvdb_id": "397424",
     "tmdb_id": "157741",
+    "imdb_id": "tt14186672",
     "thumb": "https://media.themoviedb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
     "plot": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it\u2019s reshaping our climate, our economy and our geopolitics."
   },
@@ -190,6 +184,7 @@
     "type": "movie",
     "year": 2026,
     "tmdb_id": "875828",
+    "imdb_id": "tt15574124",
     "thumb": "https://media.themoviedb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
     "plot": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family \u2014 and his nation."
   },
@@ -265,6 +260,7 @@
     "type": "movie",
     "year": 1997,
     "tmdb_id": "2649",
+    "imdb_id": "tt0119174",
     "thumb": "https://media.themoviedb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
     "plot": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins."
   },
@@ -273,6 +269,7 @@
     "type": "movie",
     "year": 1999,
     "tmdb_id": "550",
+    "imdb_id": "tt0137523",
     "thumb": "https://media.themoviedb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
     "plot": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion."
   },
@@ -290,6 +287,7 @@
     "year": 2026,
     "tvdb_id": "458014",
     "tmdb_id": "279884",
+    "imdb_id": "tt35052852",
     "thumb": "https://media.themoviedb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
     "plot": "RAFA retraces Nadal's remarkable journey with cinematic scope, combining testimonies from those who know him best\u2014on and off the court\u2014with unseen moments that reveal what lies behind the legend.",
     "subs": [
@@ -325,19 +323,12 @@
       }
     ]
   },
-  "25th Hour (2002) 1080p ENG-ITA x264 BluRay - La 25a Ora - Shiv@": {
-    "title": "25th Hour",
-    "type": "movie",
-    "year": 2003,
-    "tmdb_id": "1429",
-    "thumb": "https://media.themoviedb.org/t/p/w500/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
-    "plot": "On the eve of a seven-year prison sentence, a New York drug dealer spends his final day of freedom confronting his past, his relationships, and the choices that led to his downfall in a city still reeling from 9/11."
-  },
   "The.Apprentice.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]": {
     "title": "The Apprentice",
     "type": "movie",
     "year": 2024,
     "tmdb_id": "1182047",
+    "imdb_id": "tt8368368",
     "thumb": "https://media.themoviedb.org/t/p/w500/549Hdul2BgPnZMhqFxp6npp2opr.jpg",
     "plot": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect prot\u00e9g\u00e9\u2014someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
     "subs": [
@@ -452,6 +443,7 @@
     "year": 2021,
     "tvdb_id": "386374",
     "tmdb_id": "127865",
+    "imdb_id": "tt10834220",
     "thumb": "https://media.themoviedb.org/t/p/w500/naCYfDx93zfXT6MwmvTwBOkIUy9.jpg",
     "plot": "At a grisly murder scene sits a figurine made of chestnuts. From this creepy clue, two detectives hunt a killer linked to a politician's missing child.",
     "subs": [
@@ -498,6 +490,7 @@
     "type": "movie",
     "year": 2018,
     "tmdb_id": "489931",
+    "imdb_id": "tt6212478",
     "thumb": "https://media.themoviedb.org/t/p/w500/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg",
     "plot": "Lexington, Kentucky, 2004. Four young men attempt to execute one of the most audacious art heists in the history of the United States."
   },
@@ -507,6 +500,7 @@
     "year": 2017,
     "tvdb_id": "334824",
     "tmdb_id": "70523",
+    "imdb_id": "tt5753856",
     "thumb": "https://media.themoviedb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
     "plot": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
   },
@@ -516,6 +510,7 @@
     "year": 2017,
     "tvdb_id": "334824",
     "tmdb_id": "70523",
+    "imdb_id": "tt5753856",
     "thumb": "https://media.themoviedb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
     "plot": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
   },
@@ -525,6 +520,7 @@
     "year": 2017,
     "tvdb_id": "334824",
     "tmdb_id": "70523",
+    "imdb_id": "tt5753856",
     "thumb": "https://media.themoviedb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
     "plot": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
   },
@@ -534,6 +530,7 @@
     "year": 2025,
     "tvdb_id": "449071",
     "tmdb_id": "252000",
+    "imdb_id": "tt32132630",
     "thumb": "https://media.themoviedb.org/t/p/w500/pjmQbrJ3FesJobbqCnUwBCtfcvH.jpg",
     "plot": "When a child goes missing in the aftermath of a house explosion, a concerned neighbor teams up with a private investigator to find them. As secrets unravel and a military conspiracy emerges, all hell is unleashed on South Oxford's sleepy suburbs."
   },
@@ -542,6 +539,7 @@
     "type": "movie",
     "year": 2018,
     "tmdb_id": "458737",
+    "imdb_id": "tt6053438",
     "thumb": "https://media.themoviedb.org/t/p/w500/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
     "plot": "A pastor of a small church in upstate New York starts to spiral out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife."
   },
@@ -550,7 +548,8 @@
     "type": "movie",
     "year": 2001,
     "tmdb_id": "77",
-    "thumb": "https://media.themoviedb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+    "imdb_id": "tt0209144",
+    "thumb": "https://media.themoviedb.org/t/p/w500/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
     "plot": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why."
   },
   "The.Devil.Wears.Prada.2.2026.1080p.DCPRip.x264-FS": {
@@ -567,6 +566,7 @@
     "year": 2026,
     "tvdb_id": "463308",
     "tmdb_id": "299167",
+    "imdb_id": "tt34991493",
     "thumb": "https://media.themoviedb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "plot": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire."
   },
@@ -576,6 +576,7 @@
     "year": 2025,
     "tvdb_id": "443433",
     "tmdb_id": "241609",
+    "imdb_id": "tt30459041",
     "thumb": "https://media.themoviedb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg",
     "plot": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him\u2014but he gradually gets tangled in a deadly web."
   },
@@ -655,6 +656,7 @@
     "type": "movie",
     "year": 2018,
     "tmdb_id": "446807",
+    "imdb_id": "tt5177088",
     "thumb": "https://media.themoviedb.org/t/p/w500/w4ibr8R702DCjwYniry1D1XwQXj.jpg",
     "plot": "After being enlisted to recover a dangerous computer program, hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials."
   },
@@ -663,6 +665,7 @@
     "type": "movie",
     "year": 2000,
     "tmdb_id": "1213",
+    "imdb_id": "tt0134119",
     "thumb": "https://media.themoviedb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
     "plot": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder."
   },
@@ -672,6 +675,7 @@
     "year": 2026,
     "tvdb_id": "457173",
     "tmdb_id": "278178",
+    "imdb_id": "tt34771210",
     "thumb": "https://media.themoviedb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
     "plot": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive."
   },
@@ -681,6 +685,7 @@
     "year": 2018,
     "tvdb_id": "339957",
     "tmdb_id": "83062",
+    "imdb_id": "tt8810204",
     "thumb": "https://media.themoviedb.org/t/p/w500/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
     "plot": "Best friends Romano, Potlood and De Paus rise in the rank of the criminal world. Before they know it, they run Amsterdam's entire coke market. Because of jealousy, their relation becomes complicated and ends up hostile."
   },
@@ -690,6 +695,7 @@
     "year": 2018,
     "tvdb_id": "339957",
     "tmdb_id": "83062",
+    "imdb_id": "tt8810204",
     "thumb": "https://media.themoviedb.org/t/p/w500/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
     "plot": "Best friends Romano, Potlood and De Paus rise in the rank of the criminal world. Before they know it, they run Amsterdam's entire coke market. Because of jealousy, their relation becomes complicated and ends up hostile."
   },
@@ -699,6 +705,7 @@
     "year": 2018,
     "tvdb_id": "339957",
     "tmdb_id": "83062",
+    "imdb_id": "tt8810204",
     "thumb": "https://media.themoviedb.org/t/p/w500/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
     "plot": "Best friends Romano, Potlood and De Paus rise in the rank of the criminal world. Before they know it, they run Amsterdam's entire coke market. Because of jealousy, their relation becomes complicated and ends up hostile."
   },
@@ -708,6 +715,7 @@
     "year": 2018,
     "tvdb_id": "339957",
     "tmdb_id": "83062",
+    "imdb_id": "tt8810204",
     "thumb": "https://media.themoviedb.org/t/p/w500/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
     "plot": "Best friends Romano, Potlood and De Paus rise in the rank of the criminal world. Before they know it, they run Amsterdam's entire coke market. Because of jealousy, their relation becomes complicated and ends up hostile."
   },
@@ -717,6 +725,7 @@
     "year": 2018,
     "tvdb_id": "339957",
     "tmdb_id": "83062",
+    "imdb_id": "tt8810204",
     "thumb": "https://media.themoviedb.org/t/p/w500/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
     "plot": "Best friends Romano, Potlood and De Paus rise in the rank of the criminal world. Before they know it, they run Amsterdam's entire coke market. Because of jealousy, their relation becomes complicated and ends up hostile."
   },
@@ -726,6 +735,7 @@
     "year": 2018,
     "tvdb_id": "339957",
     "tmdb_id": "83062",
+    "imdb_id": "tt8810204",
     "thumb": "https://media.themoviedb.org/t/p/w500/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
     "plot": "Best friends Romano, Potlood and De Paus rise in the rank of the criminal world. Before they know it, they run Amsterdam's entire coke market. Because of jealousy, their relation becomes complicated and ends up hostile."
   },
@@ -742,6 +752,7 @@
     "type": "movie",
     "year": 2014,
     "tmdb_id": "206487",
+    "imdb_id": "tt2397535",
     "thumb": "https://media.themoviedb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
     "plot": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost."
   },
@@ -758,6 +769,7 @@
     "type": "movie",
     "year": 2019,
     "tmdb_id": "299534",
+    "imdb_id": "tt4154796",
     "thumb": "https://media.themoviedb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
     "plot": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
   },
@@ -767,6 +779,7 @@
     "year": 2025,
     "tvdb_id": "451211",
     "tmdb_id": "248416",
+    "imdb_id": "tt31613279",
     "thumb": "https://media.themoviedb.org/t/p/w500/udxkpbqBsVS4Hnrfn4HabDKKxb5.jpg",
     "plot": "Amanda Knox arrives in Italy for her study abroad only to be wrongfully imprisoned for murder weeks later. Follow Knox's relentless fight to prove her innocence and reclaim her freedom and examines why authorities and the world stood so firmly in judgment."
   },
@@ -775,6 +788,7 @@
     "type": "movie",
     "year": 2015,
     "tmdb_id": "99861",
+    "imdb_id": "tt2395427",
     "thumb": "https://media.themoviedb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
     "plot": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
     "subs": [
@@ -791,6 +805,7 @@
     "type": "movie",
     "year": 2018,
     "tmdb_id": "299536",
+    "imdb_id": "tt4154756",
     "thumb": "https://media.themoviedb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "plot": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
     "subs": [
@@ -807,6 +822,495 @@
         "hi": false
       }
     ]
+  },
+  "www.UIndex.org    -    Shipwrecked Nightmare at Sea 2026 1080p NF WEB-DL DDP5 1 Atmos H 264-Kitsune": {
+    "title": "Shipwrecked Nightmare at Sea",
+    "type": "movie",
+    "year": 2026,
+    "tmdb_id": "1715492",
+    "thumb": "https://media.themoviedb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+    "plot": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary."
+  },
+  "www.UIndex.org    -    Gone Baby Gone 2007 Blu-ray 1080p DTS L4 1 x264-CtrlHD": {
+    "title": "Gone Baby Gone",
+    "type": "movie",
+    "year": 2007,
+    "tmdb_id": "4771",
+    "imdb_id": "tt0452623",
+    "thumb": "https://media.themoviedb.org/t/p/w500/5BXDhjKZ4AL9VPxcygdG3oL60GP.jpg",
+    "plot": "When 4 year old Amanda McCready disappears from her home and the police make little headway in solving the case, the girl's aunt, Beatrice McCready hires two private detectives, Patrick Kenzie and Angie Gennaro. The detectives freely admit that they have little experience with this type of case, but the family wants them for two reasons\u2014they're not cops and they know the tough neighborhood in which they all live."
+  },
+  "1883 S01 1080p TV+ WEB-DL [TR-EN] AAC2.0 H264-TURG": {
+    "title": "1883",
+    "type": "tvshow",
+    "year": 2021,
+    "tvdb_id": "396390",
+    "tmdb_id": "118357",
+    "imdb_id": "tt13991232",
+    "thumb": "https://media.themoviedb.org/t/p/w500/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+    "plot": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America\u2019s promised land \u2014 Montana."
+  },
+  "The.Handmaids.Tale.S02.ITA.ENG.1080p.BluRay.x264-MeM": {
+    "title": "The Handmaids Tale",
+    "type": "tvshow",
+    "year": 2017,
+    "tvdb_id": "321239",
+    "tmdb_id": "69478",
+    "imdb_id": "tt5834204",
+    "thumb": "https://media.themoviedb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+    "plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+    "subs": [
+      {
+        "url": "https://dl.opensubtitles.org/en/download/subencoding-utf8/src-api/vrf-19cc0c54/file/1955933260",
+        "fileName": "The Handmaids Tale.S02E04.en.srt",
+        "language": "en",
+        "hi": true
+      },
+      {
+        "url": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1955933261",
+        "fileName": "The Handmaids Tale.S02E04.en.srt",
+        "language": "en",
+        "hi": false
+      },
+      {
+        "url": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1955973533",
+        "fileName": "The Handmaids Tale.S02E10.en.srt",
+        "language": "en",
+        "hi": false
+      }
+    ]
+  },
+  "Eden.Lake.2008.Bluray.1080p.DTS-HD.x264-Grym": {
+    "title": "Eden Lake",
+    "type": "movie",
+    "year": 2008,
+    "tmdb_id": "13510",
+    "imdb_id": "tt1020530",
+    "thumb": "https://media.themoviedb.org/t/p/w500/tOg6ElTe1mJwaCFN0172U4oso22.jpg",
+    "plot": "When a young couple goes to a remote wooded lake for a romantic getaway, their quiet weekend is shattered by an aggressive group of local kids. Rowdiness quickly turns to rage as the teens terrorize the couple in unimaginable ways, and a weekend outing becomes a bloody battle for survival."
+  },
+  "The Leftovers 2014 Seasons 1 - 3 Complete 1080p BluRay x264 [i_c]": {
+    "title": "The Leftovers",
+    "type": "tvshow",
+    "year": 2014,
+    "tvdb_id": "269689",
+    "tmdb_id": "54344",
+    "imdb_id": "tt2699128",
+    "thumb": "https://media.themoviedb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+    "plot": "When 2% of the world's population abruptly disappears without explanation, the world struggles to understand just what they're supposed to do about it. This is the story of the people who didn't make the cut."
+  },
+  "\u3010\u9ad8\u6e05\u5f71\u89c6\u4e4b\u5bb6\u53d1\u5e03 www.SSDSSE.com\u3011\u75f4\u8ff7[\u7b80\u7e41\u82f1\u5b57\u5e55].Obsession.2025.USA.BluRay.Remux.AVC.1080p.Atmos.TrueHD7.1-DreamHD": {
+    "title": "Obsession",
+    "type": "movie",
+    "year": 2026,
+    "tmdb_id": "1339713",
+    "imdb_id": "tt37287335",
+    "thumb": "https://media.themoviedb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "plot": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price."
+  },
+  "www.UIndex.org    -    Captain America Civil War 2016 NORDiC 1080p REMUX BluRay AVC DTS-HD MA TrueHD 7 1 Atmos-NorTekst": {
+    "title": "Captain America Civil War",
+    "type": "movie",
+    "year": 2016,
+    "tmdb_id": "271110",
+    "imdb_id": "tt3498820",
+    "thumb": "https://media.themoviedb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "plot": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies."
+  },
+  "Up.2009.Bluray.1080p.DTS-HD.x264-Grym": {
+    "title": "Up",
+    "type": "movie",
+    "year": 2009,
+    "tmdb_id": "14160",
+    "imdb_id": "tt1049413",
+    "thumb": "https://media.themoviedb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+    "plot": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life."
+  },
+  "www.1TamilMV.reisen - Ride or Die (2026) S01 EP (01-08) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng]": {
+    "title": "Ride or Die",
+    "type": "tvshow",
+    "year": 2026,
+    "tvdb_id": "457730",
+    "tmdb_id": "241882",
+    "imdb_id": "tt30494226",
+    "thumb": "https://media.themoviedb.org/t/p/w500/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
+    "plot": "Best friends Debbie and Judith are forced on the run when Debbie discovers Judith isn't a forensic accountant, she's an international assassin! With a mysterious figure chasing them, and Debbie's husband involved in something deeply corrupt, it's a race against time and a road trip across Europe to untangle the truth and stay alive."
+  },
+  "Thor-Ragnarok.2017.Bluray.1080p.TrueHD-7.1.Atmos.x264-Grym": {
+    "title": "Thor-Ragnarok",
+    "type": "movie",
+    "year": 2017,
+    "tmdb_id": "284053",
+    "imdb_id": "tt3501632",
+    "thumb": "https://media.themoviedb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "plot": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela."
+  },
+  "Thor 2011 BluRay 1080p DTS-ES x264-3Li": {
+    "title": "Thor",
+    "type": "movie",
+    "year": 2011,
+    "tmdb_id": "10195",
+    "imdb_id": "tt0800369",
+    "thumb": "https://media.themoviedb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+    "plot": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth."
+  },
+  "The.Silence.of.the.Lambs.1991.1080p.Bluray.x264.AC3-ETRG": {
+    "title": "The Silence of the Lambs",
+    "type": "movie",
+    "year": 1991,
+    "tmdb_id": "274",
+    "imdb_id": "tt0102926",
+    "thumb": "https://media.themoviedb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "plot": "Clarice Starling is a top student at the FBI's training academy. Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
+  },
+  "The.Sheep.Detectives.2026.MULTi.VF2.1080p.WEB.EAC3.5.1.H264-TFA": {
+    "title": "The Sheep Detectives",
+    "type": "movie",
+    "year": 2026,
+    "tmdb_id": "1301421",
+    "imdb_id": "tt32565993",
+    "thumb": "https://media.themoviedb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+    "plot": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers."
+  },
+  "The.Shawshank.Redemption.1994.1080p.Bluray.ENG.LATINO.CASTELLANO.FRE.GER.ITA.HINDI.DTS-HD.Master.H264-BEN.THE.MEN": {
+    "title": "The Shawshank Redemption",
+    "type": "movie",
+    "year": 1995,
+    "tmdb_id": "278",
+    "imdb_id": "tt0111161",
+    "thumb": "https://media.themoviedb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "plot": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope."
+  },
+  "The Office U.S. - Season 1 1080p WEBRip x264 AC3 MultiSubs": {
+    "title": "The Office",
+    "type": "tvshow",
+    "year": 2005,
+    "tvdb_id": "73244",
+    "tmdb_id": "2316",
+    "imdb_id": "tt0386676",
+    "thumb": "https://media.themoviedb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "plot": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company."
+  },
+  "Troy - Director's Cut (2004) BDRip 1080p ENG-ITA MultiSub x264 BluRay -Shiv@": {
+    "title": "Troy",
+    "type": "movie",
+    "year": 2004,
+    "tmdb_id": "652",
+    "imdb_id": "tt0332452",
+    "thumb": "https://media.themoviedb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+    "plot": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy."
+  },
+  "The.Night.Manager.S01.1080p.BluRay.x264-SHORTBREHD[rartv]": {
+    "title": "The Night Manager",
+    "type": "tvshow",
+    "year": 2016,
+    "tvdb_id": "290508",
+    "tmdb_id": "61859",
+    "imdb_id": "tt1399664",
+    "thumb": "https://media.themoviedb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+    "plot": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal."
+  },
+  "The.Big.Short.2015.MULTi.1080p.BluRay.x264-DSiTE": {
+    "title": "The Big Short",
+    "type": "movie",
+    "year": 2016,
+    "tmdb_id": "318846",
+    "imdb_id": "tt1596363",
+    "thumb": "https://media.themoviedb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+    "plot": "The men who made millions from a global economic meltdown."
+  },
+  "Sugar.2024.S01.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb": {
+    "title": "Sugar",
+    "type": "tvshow",
+    "year": 2024,
+    "tvdb_id": "421070",
+    "tmdb_id": "203744",
+    "imdb_id": "tt16418808",
+    "thumb": "https://media.themoviedb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+    "plot": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose."
+  },
+  "Silo.S01.MULTi.1080p.WEB.H264-FW": {
+    "title": "Silo",
+    "type": "tvshow",
+    "year": 2023,
+    "tvdb_id": "403245",
+    "tmdb_id": "125988",
+    "imdb_id": "tt14688458",
+    "thumb": "https://media.themoviedb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "plot": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo."
+  },
+  "Pride and Prejudice (BDrip 720p ENG-ITA-FRE-JPN-SPA AC3) x264 Multisub blu-ray (2005)": {
+    "title": "Pride and Prejudice",
+    "type": "movie",
+    "year": 2006,
+    "tmdb_id": "4348",
+    "imdb_id": "tt0414387",
+    "thumb": "https://media.themoviedb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+    "plot": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages."
+  },
+  "Oppenheimer Castellano+forzados+completos H264-ac3 Brrip hd 1080p": {
+    "title": "Oppenheimer",
+    "type": "movie",
+    "year": 2023,
+    "tmdb_id": "872585",
+    "imdb_id": "tt15398776",
+    "thumb": "https://media.themoviedb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "plot": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II."
+  },
+  "Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x264-SPARKS[rarbg]": {
+    "title": "Once Upon a Time in Hollywood",
+    "type": "movie",
+    "year": 2019,
+    "tmdb_id": "466272",
+    "imdb_id": "tt7131622",
+    "thumb": "https://media.themoviedb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+    "plot": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026"
+  },
+  "No.Country.For.Old.Men.2007.ITA.ENG.BDrip.1080p.x264-Fratposa": {
+    "title": "No Country For Old Men",
+    "type": "movie",
+    "year": 2008,
+    "tmdb_id": "6977",
+    "imdb_id": "tt0477348",
+    "thumb": "https://media.themoviedb.org/t/p/w500/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+    "plot": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide."
+  },
+  "Moneyball.2011.iNTERNAL.1080p.BluRay.x264-AVS1080": {
+    "title": "Moneyball",
+    "type": "movie",
+    "year": 2012,
+    "tmdb_id": "60308",
+    "imdb_id": "tt1210166",
+    "thumb": "https://media.themoviedb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+    "plot": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players."
+  },
+  "Mindhunter.S01.ITA.ENG.1080p.NF.WEB-DLMux.DD5.1.x264-Morpheus": {
+    "title": "Mindhunter",
+    "type": "tvshow",
+    "year": 2017,
+    "tvdb_id": "328708",
+    "tmdb_id": "67744",
+    "imdb_id": "tt5290382",
+    "thumb": "https://media.themoviedb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+    "plot": "An agent in the FBI's Elite Serial Crime Unit develops profiling techniques as he pursues notorious serial killers and rapists."
+  },
+  "Lucky.S01.1080p.ATVP.WEB-DL.H.264": {
+    "title": "Lucky",
+    "type": "tvshow",
+    "year": 2026,
+    "tvdb_id": "457437",
+    "tmdb_id": "278624",
+    "imdb_id": "tt34866681",
+    "thumb": "https://media.themoviedb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "plot": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life\u2014and a way out."
+  },
+  "Lion.2016.MULTi.1080p.BluRay.x264-LOST": {
+    "title": "Lion",
+    "type": "movie",
+    "year": 2017,
+    "tmdb_id": "334543",
+    "imdb_id": "tt3741834",
+    "thumb": "https://media.themoviedb.org/t/p/w500/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
+    "plot": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family."
+  },
+  "Le.Bus.Les.Bleus.en.Greve.2026.DOC.MULTi.VFF.1080p.WEB.EAC3.5.1.H264-TFA": {
+    "title": "Le Bus Les Bleus",
+    "type": "movie",
+    "year": 2026,
+    "tmdb_id": "1678844",
+    "imdb_id": "tt37024319",
+    "thumb": "https://media.themoviedb.org/t/p/w500/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
+    "plot": "This documentary revisits the French football team's controversial 2010 World Cup and the bus strike that sparked global headlines and national outrage."
+  },
+  "Il.Padrino.1972.REMASTERED.iTA.ENG.AC3.SUB.iTA.ENG.BluRay.1080p.x264.jeddak-MIRCrew": {
+    "title": "Il Padrino",
+    "type": "movie",
+    "year": 1972,
+    "tmdb_id": "238",
+    "imdb_id": "tt0068646",
+    "thumb": "https://media.themoviedb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "plot": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+  },
+  "House.of.the.Dragon.S01.MULTi.1080p.BluRay.REMUX.AVC.TrueHD.Atmos.7.1-ONLY": {
+    "title": "House of the Dragon",
+    "type": "tvshow",
+    "year": 2022,
+    "tvdb_id": "371572",
+    "tmdb_id": "94997",
+    "imdb_id": "tt11198330",
+    "thumb": "https://media.themoviedb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "plot": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm."
+  },
+  "Hachi.A.Dog's.Tale.2009.BluRay.1080p.x264.AAC.5.1.-.Hon3y": {
+    "title": "Hachi A Dog's Tale",
+    "type": "movie",
+    "year": 2009,
+    "tmdb_id": "28178",
+    "imdb_id": "tt1028532",
+    "thumb": "https://media.themoviedb.org/t/p/w500/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+    "plot": "Professor Wilson discovers a lost Akita puppy on his way home. Despite objections from his wife, Hachi endears himself to the family and grows to be Parker's loyal companion. As their bond grows deeper, a beautiful relationship unfolds."
+  },
+  "Eternal.Sunshine.Of.The.Spotless.Mind.2004.1080p.BluRay.x264-Japhson": {
+    "title": "Eternal Sunshine Of The Spotless Mind",
+    "type": "movie",
+    "year": 2004,
+    "tmdb_id": "38",
+    "imdb_id": "tt0338013",
+    "thumb": "https://media.themoviedb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "plot": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake."
+  },
+  "El d\u00eda de la revelaci\u00f3n Castellano-Ingles+Subt Castellano-Ingles H264 E-AC3 5.1 BD-Rip hd 1080p": {
+    "title": "Disclosure Day",
+    "type": "movie",
+    "year": 2026,
+    "tmdb_id": "1275779",
+    "imdb_id": "tt15047880",
+    "thumb": "https://media.themoviedb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+    "plot": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding."
+  },
+  "Conspiracy.2001.1080p.AMZN.WEBRip.DD2.0.x264-QOQ": {
+    "title": "Conspiracy",
+    "type": "movie",
+    "year": 2001,
+    "tmdb_id": "12900",
+    "imdb_id": "tt0266425",
+    "thumb": "https://media.themoviedb.org/t/p/w500/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
+    "plot": "At the Wannsee Conference on January 20, 1942, senior Nazi officials meet to determine the manner in which the so-called \"Final Solution to the Jewish Question\" can be best implemented."
+  },
+  "[DEVIL-TORRENTS.PL] Clanes.Sezon02.MULTi.1080p.NF.WEB-DL.H264.DDP5.1.Atmos-K83": {
+    "title": "Clanes",
+    "type": "tvshow",
+    "year": 2024,
+    "tvdb_id": "441786",
+    "tmdb_id": "227042",
+    "imdb_id": "tt27843828",
+    "thumb": "https://media.themoviedb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
+    "plot": "When her father's murder reveals a hidden double life, a lawyer seeks revenge by infiltrating a Galician drug cartel and becoming close to its leader."
+  },
+  "[ OxTorrent.com ] Black Panther (2018) MULTi VF2 [1080p] BluRay x264-PopHD": {
+    "title": "Black Panther",
+    "type": "movie",
+    "year": 2018,
+    "tmdb_id": "284054",
+    "imdb_id": "tt1825683",
+    "thumb": "https://media.themoviedb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "plot": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war."
+  },
+  "Baby.Driver.2017.MULTI.VFF.1080p.BluRay.REMUX.DTS.HD.MA.5.1.AVC-NOTAG": {
+    "title": "Baby Driver",
+    "type": "movie",
+    "year": 2017,
+    "tmdb_id": "339403",
+    "imdb_id": "tt3890160",
+    "thumb": "https://media.themoviedb.org/t/p/w500/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+    "plot": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail."
+  },
+  "The Handmaids Tale Season 3 Mp4 1080p Stereo": {
+    "title": "The Handmaids Tale",
+    "type": "tvshow",
+    "year": 2017,
+    "tvdb_id": "321239",
+    "tmdb_id": "69478",
+    "imdb_id": "tt5834204",
+    "thumb": "https://media.themoviedb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+    "plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+  },
+  "The Handmaids Tale Season 6 Mp4 1080p": {
+    "title": "The Handmaids Tale",
+    "type": "tvshow",
+    "year": 2017,
+    "tvdb_id": "321239",
+    "tmdb_id": "69478",
+    "imdb_id": "tt5834204",
+    "thumb": "https://media.themoviedb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+    "plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+  },
+  "The Handmaids Tale Season 5 Mp4 x264 1080p": {
+    "title": "The Handmaids Tale",
+    "type": "tvshow",
+    "year": 2017,
+    "tvdb_id": "321239",
+    "tmdb_id": "69478",
+    "imdb_id": "tt5834204",
+    "thumb": "https://media.themoviedb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+    "plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+  },
+  "The Handmaids Tale Season 4 Mp4 1080p": {
+    "title": "The Handmaids Tale",
+    "type": "tvshow",
+    "year": 2017,
+    "tvdb_id": "321239",
+    "tmdb_id": "69478",
+    "imdb_id": "tt5834204",
+    "thumb": "https://media.themoviedb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+    "plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+  },
+  "The.Handmaids.Tale.iNTEGRALE.MULTi.1080p.WEB.H264-FW": {
+    "title": "The Handmaids Tale",
+    "type": "tvshow",
+    "year": 2017,
+    "tvdb_id": "321239",
+    "tmdb_id": "69478",
+    "imdb_id": "tt5834204",
+    "thumb": "https://media.themoviedb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+    "plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+  },
+  "[Ex-torrenty.org]Treme.S01.MULTi.1080p.HMAX.WEB-DL.H264-Mixio": {
+    "title": "Treme",
+    "type": "tvshow",
+    "year": 2010,
+    "tvdb_id": "84946",
+    "tmdb_id": "17967",
+    "imdb_id": "tt1279972",
+    "thumb": "https://media.themoviedb.org/t/p/w500/k4pV1FUccFmmbz9DwUON7KWT0gi.jpg",
+    "plot": "Trem\u00e9 takes its name from a neighborhood of New Orleans and portrays life in the aftermath of the 2005 hurricane. Beginning three months after Hurricane Katrina, the residents of New Orleans, including musicians, chefs, Mardi Gras Indians, and other New Orleanians struggle to rebuild their lives, their homes and their unique culture."
+  },
+  "The.Testaments.S01.MULTi.1080p.WEB.H264-FW": {
+    "title": "The Testaments",
+    "type": "tvshow",
+    "year": 2026,
+    "tvdb_id": "460241",
+    "tmdb_id": "287527",
+    "imdb_id": "tt10970762",
+    "thumb": "https://media.themoviedb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "plot": "Growing up in Gilead is all they have ever known. As a new generation of young women grapple with the bleak future that awaits them, they will be forced to search for allies, new and old, to help in their fight for freedom."
+  },
+  "Patriot.S01.1080p.AMZN.WEBRip.DD5.1.x264-DEFLATE[rartv]": {
+    "title": "Patriot",
+    "type": "tvshow",
+    "year": 2015,
+    "tvdb_id": "323267",
+    "tmdb_id": "64396",
+    "imdb_id": "tt4687882",
+    "thumb": "https://media.themoviedb.org/t/p/w500/xq3xeWFfjb8UeNy1y9JMUhL6Ptq.jpg",
+    "plot": "To prevent Iran from going nuclear, intelligence officer John Tavner must forgo all safety nets and assume a perilous \"non-official cover\" -- that of a mid-level employee at a Midwestern industrial piping firm."
+  },
+  "Brokeback.Mountain.2005.1080p.BluRay.x264.DTS-ENG-5.1-SPA": {
+    "title": "Brokeback Mountain",
+    "type": "movie",
+    "year": 2005,
+    "tmdb_id": "142",
+    "imdb_id": "tt0388795",
+    "thumb": "https://media.themoviedb.org/t/p/w500/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+    "plot": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own."
+  },
+  "25th Hour (2002) 1080p ENG-ITA x264 BluRay - La 25a Ora - Shiv@": {
+    "title": "25th Hour",
+    "type": "movie",
+    "year": 2003,
+    "tmdb_id": "1429",
+    "imdb_id": "tt0307901",
+    "thumb": "https://media.themoviedb.org/t/p/w500/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+    "plot": "On the eve of a seven-year prison sentence, a New York drug dealer spends his final day of freedom confronting his past, his relationships, and the choices that led to his downfall in a city still reeling from 9/11."
+  },
+  "Evil.Influencer.The.Jodi.Hildebrandt.Story.2025.1080p.WEB.h264": {
+    "title": "Evil Influencer The Jodi Hildebrandt Story",
+    "type": "movie",
+    "year": 2025,
+    "tmdb_id": "1591516",
+    "imdb_id": "tt39049795",
+    "thumb": "https://media.themoviedb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
+    "plot": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation."
   }
 }
            
