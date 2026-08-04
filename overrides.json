@@ -1294,15 +1294,6 @@
     "thumb": "https://media.themoviedb.org/t/p/w500/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
     "plot": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own."
   },
-  "25th Hour (2002) 1080p ENG-ITA x264 BluRay - La 25a Ora - Shiv@": {
-    "title": "25th Hour",
-    "type": "movie",
-    "year": 2003,
-    "tmdb_id": "1429",
-    "imdb_id": "tt0307901",
-    "thumb": "https://media.themoviedb.org/t/p/w500/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
-    "plot": "On the eve of a seven-year prison sentence, a New York drug dealer spends his final day of freedom confronting his past, his relationships, and the choices that led to his downfall in a city still reeling from 9/11."
-  },
   "Evil.Influencer.The.Jodi.Hildebrandt.Story.2025.1080p.WEB.h264": {
     "title": "Evil Influencer The Jodi Hildebrandt Story",
     "type": "movie",
@@ -1311,6 +1302,69 @@
     "imdb_id": "tt39049795",
     "thumb": "https://media.themoviedb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
     "plot": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation."
+  },
+  "25th Hour (2002) 1080p ENG-ITA x264 BluRay - La 25a Ora - Shiv@": {
+    "title": "25th Hour",
+    "type": "movie",
+    "year": 2003,
+    "tmdb_id": "1429",
+    "imdb_id": "tt0307901",
+    "thumb": "https://media.themoviedb.org/t/p/w500/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+    "plot": "On the eve of a seven-year prison sentence, a New York drug dealer spends his final day of freedom confronting his past, his relationships, and the choices that led to his downfall in a city still reeling from 9/11.",
+    "subs": [
+      {
+        "url": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1954295268",
+        "fileName": "25th Hour (2003).en.srt",
+        "language": "en",
+        "hi": false
+      }
+    ]
+  },
+  "Pressure.2026.1080p.AMZN.WEB-DL.DDP5.1.H264.MP4-BEN.THE.MEN": {
+    "title": "Pressure",
+    "type": "movie",
+    "year": 2026,
+    "tmdb_id": "1318413",
+    "imdb_id": "tt32547691",
+    "thumb": "https://media.themoviedb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+    "plot": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice\u2014launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+    "subs": [
+      {
+        "url": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962408582",
+        "fileName": "Pressure (2026).es.srt",
+        "language": "es",
+        "hi": false
+      }
+    ]
+  },
+  "The Agency 2024 S01 1080p AMZN WEBRip DDP5 1 H 264-FLUX": {
+    "title": "The Agency",
+    "type": "tvshow",
+    "year": 2024,
+    "tvdb_id": "430769",
+    "tmdb_id": "219971",
+    "imdb_id": "tt26656917",
+    "thumb": "https://media.themoviedb.org/t/p/w500/zoLZbm5gtTQurjMxp5VOdHIpMmz.jpg",
+    "plot": "Covert CIA agent Martian is ordered to abandon his undercover life and return to London Station. When the love he left behind unexpectedly reappears, their romance reignites, pitting his career, his real identity and his mission against his heart while hurling them both into a deadly game of international intrigue and espionage."
+  },
+  "michael.2026.WEB-DL.1080p.EC3.5.1.h264.latino.eng.castellano": {
+    "title": "Michael",
+    "type": "movie",
+    "year": 2026,
+    "tmdb_id": "936075",
+    "imdb_id": "tt11378946",
+    "thumb": "https://media.themoviedb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "plot": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career."
+  },
+  "Cape Fear 2026 Season 1 Complete 1080p WEB x264 [i_c]": {
+    "title": "Cape Fear",
+    "type": "tvshow",
+    "year": 2026,
+    "tvdb_id": "456813",
+    "tmdb_id": "277439",
+    "imdb_id": "tt34675596",
+    "thumb": "https://media.themoviedb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+    "plot": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars."
   }
 }
-           
+   
